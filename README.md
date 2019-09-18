@@ -17,5 +17,5 @@ immediately.
 2. To run the programme : 
 	java Main
 
-3.To exist from the programme : 
+3. To exist from the programme : 
 	Press any key
