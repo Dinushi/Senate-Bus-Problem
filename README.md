@@ -1,7 +1,7 @@
 # Senate-Bus-Problem
 Devising a solution to a problem that requires synchronization.
 
-This program will demonstarte how to use mutexes and semaphores to acheive synchronization in an actual program.
+This program will demonstate how to use mutexes and semaphores to acheive synchronization in an actual program.
 
 # Problem
 This problem was originally based on the Senate bus at Wellesley College. Riders come to a bus
